@@ -60,7 +60,7 @@
 </head>
 <body>
 <header>
-    <h1>Bienvenue sur jacketleon.com</h1>
+    <h1>Bienvenue chez Jack et Léon</h1>
     <h3> Le site est actuellement en construction, mais n'hésitez pas à revenir plus tard ! <br/>
     Merci pour votre visite !</h3>
 </header>
