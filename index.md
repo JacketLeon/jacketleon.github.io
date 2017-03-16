@@ -1,5 +1,4 @@
 
-<!doctype html>
   <title>Site en Construction</title>
  -<style>
  -  body { text-align: center; padding: 150px; }
