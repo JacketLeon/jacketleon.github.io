@@ -61,11 +61,11 @@
 </head>
 <body>
 <header>
-    <h1>Under Construction</h1>
-    <h3><a href="https://github.com/treyhunner/under-construction">Contribute on Github</a></h3>
+    <h1>Bienvenue sur jacketleon.com</h1>
+    <h3>Le site est actuellement en construction, mais n'hésitez pas à revenir plus tard !</h3>
 </header>
 <footer>
-    <p>Background image courtesy of <a href="http://www.flickr.com/photos/wonderlane/5431974671/">Wonderlane</a> (Creative Commons licensed).</p>
+    <p>Pour tout renseignement, contactez-nous par <a href="mailto: jacketleon@gmail.com">mail</a>.</p>
 </footer>
 </body>
 </html>
