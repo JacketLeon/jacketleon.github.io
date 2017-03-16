@@ -8,7 +8,7 @@
         background-repeat: no-repeat;
         background-position: center center;
         background-attachment: fixed;
-        background-image: url(house_600.jpg);
+        background-image: url(salvador.jpg);
     }
     body {
         font-family: Arial;
@@ -38,7 +38,7 @@
     }
     p { margin: 0.5em; }
     @media screen and (min-height: 601px), screen and (min-width: 902px) {
-        html { background-image: url(house_768.jpg); }
+        html { background-image: url(salvador.jpg); }
         header {
             border-radius: 15px;
             left: 50%;
@@ -47,15 +47,15 @@
         }
     }
     @media screen and (min-height: 769px), screen and (min-width: 1155px) {
-        html { background-image: url(house_900.jpg); }
+        html { background-image: url(salvador.jpg); }
         body { font-size: 25px; }
     }
     @media screen and (min-height: 901px), screen and (min-width: 1353px) {
-        html { background-image: url(house_1080.jpg); }
+        html { background-image: url(salvador.jpg); }
         body { font-size: 30px; }
     }
     @media screen and (min-height: 1081px), screen and (min-width: 1624px) {
-        html { background-image: url(house_original.jpg); }
+        html { background-image: url(salvador.jpg); }
     }
     </style>
 </head>
