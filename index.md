@@ -1,3 +1,4 @@
+<!doctype html>
 
   <title>Site en Construction</title>
  -<style>
