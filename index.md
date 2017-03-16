@@ -61,8 +61,8 @@
 </head>
 <body>
 <header>
-    <h1>Bienvenue sur jacketleon.com</h1>
-    <h3>Le site est actuellement en construction, mais n'hésitez pas à revenir plus tard !</h3>
+    <h1>Bienvenue sur jacketleon.com</h1> <br />
+    <h3>Le site est actuellement en construction, mais n'hésitez pas à revenir plus tard !</h3><br />
     <h5> Merci pour votre visite !</h5>
 </header>
 <footer>
