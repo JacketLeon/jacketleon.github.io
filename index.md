@@ -61,8 +61,8 @@
 <body>
 <header>
     <h1>Bienvenue sur jacketleon.com</h1>
-    <h3>Le site est actuellement en construction, mais n'hésitez pas à revenir plus tard !</h3>
-    <h5> Merci pour votre visite !</h5>
+    <h5> Le site est actuellement en construction, mais n'hésitez pas à revenir plus tard ! <br/>
+    Merci pour votre visite !</h5>
 </header>
 <footer>
     <p>Pour tout renseignement, contactez-nous par <a href="mailto: jacketleon@gmail.com">mail</a>.</p>
