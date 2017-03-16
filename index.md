@@ -1,5 +1,3 @@
-title: Welcome to the Jack&Léon’s homepage!
-
 ## Jack et Léon vous accceuillent
 
 You can use the [editor on GitHub](https://github.com/JacketLeon/jacketleon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
