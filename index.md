@@ -14,9 +14,10 @@
         background-image: url(salvador.jpg);
     }
     body {
-        font-family: Arial;
-        color: #000;
-        font-size: 20px;
+    @font-face {
+        font-family: 'My font';
+        src: url('Changa-Regular.ttf') format('truetype');
+    }
     }
     a:link, a:visited, a:hover { color: #33c; text-decoration: none; }
     header, footer {
