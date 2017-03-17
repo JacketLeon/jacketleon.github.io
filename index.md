@@ -16,7 +16,9 @@
     body {
     @font-face {
         font-family: 'My font';
-        src: url(Changa-Regular.ttf) format('truetype');
+        src: url('Changa-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
     }
     }
     a:link, a:visited, a:hover { color: #33c; text-decoration: none; }
