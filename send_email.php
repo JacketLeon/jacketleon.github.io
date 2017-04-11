@@ -1,5 +1,5 @@
 <?php
-    $destinataire = $_POST['email'];
+    $destinataire = $_POST['faurenoe.49@gmail.com'];
     // Pour les champs $expediteur / $copie / $destinataire, séparer par une virgule s'il y a plusieurs adresses
     $expediteur = 'tonmail@domain.com';
     $objet = $_POST['subject'];
