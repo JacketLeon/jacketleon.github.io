@@ -3573,8 +3573,8 @@
 		/*display: -moz-flex;
         	display: -webkit-flex; 
 		display: -ms-flex;
-		display: flex; */
-		max-width: 45em;
+		display: flex; 
+		max-width: 45em;*/
 	}
 
 		#cta .inner header {
