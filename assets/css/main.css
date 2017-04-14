@@ -3568,6 +3568,8 @@
 /* CTA */
 
 	#cta .inner {
+		display: block;
+		text-align: center;
 		/*display: -moz-flex;
         	display: -webkit-flex; 
 		display: -ms-flex;
