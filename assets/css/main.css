@@ -3569,7 +3569,7 @@
 
 	#cta .inner {
 		display: -moz-flex;
-		display: -webkit-flex;
+        /*display: -webkit-flex; */
 		display: -ms-flex;
 		display: flex;
 		max-width: 45em;
